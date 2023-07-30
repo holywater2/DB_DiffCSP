@@ -1,0 +1,383 @@
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/hydra/experimental/compose.py:16: UserWarning: hydra.experimental.compose() is no longer experimental. Use hydra.compose()
+  warnings.warn(
+  0%|          | 0/9046 [00:00<?, ?it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:4155: UserWarning: No oxidation states specified on sites! For better results, set the site oxidation states in the structure.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/analysis/local_env.py:3949: UserWarning: CrystalNN: cannot locate an appropriate radius, covalent or atomic radii will be used, this can lead to non-optimal results.
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  0%|          | 1/9046 [00:07<17:40:25,  7.03s/it]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  0%|          | 2/9046 [00:08<9:58:15,  3.97s/it]   0%|          | 4/9046 [00:11<5:45:06,  2.29s/it]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  0%|          | 5/9046 [00:53<36:25:35, 14.50s/it]  0%|          | 6/9046 [00:54<26:16:26, 10.46s/it]  0%|          | 28/9046 [00:59<2:57:32,  1.18s/it]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  0%|          | 29/9046 [01:18<5:27:11,  2.18s/it]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  1%|          | 105/9046 [01:30<1:06:33,  2.24it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  2%|▏         | 139/9046 [01:39<57:18,  2.59it/s]    2%|▏         | 193/9046 [01:40<32:12,  4.58it/s]  2%|▏         | 199/9046 [01:42<33:45,  4.37it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  2%|▏         | 207/9046 [01:44<34:35,  4.26it/s]  2%|▏         | 209/9046 [01:52<53:13,  2.77it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  3%|▎         | 240/9046 [01:52<30:06,  4.88it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  3%|▎         | 240/9046 [02:10<30:06,  4.88it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  3%|▎         | 244/9046 [02:15<1:33:23,  1.57it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  3%|▎         | 247/9046 [02:37<2:48:13,  1.15s/it]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  4%|▎         | 337/9046 [02:57<1:03:51,  2.27it/s]  4%|▍         | 382/9046 [02:57<41:17,  3.50it/s]    4%|▍         | 390/9046 [02:59<40:16,  3.58it/s]  4%|▍         | 390/9046 [03:10<40:16,  3.58it/s]  4%|▍         | 397/9046 [03:13<1:02:48,  2.30it/s]  5%|▍         | 410/9046 [03:37<1:44:06,  1.38it/s]  5%|▌         | 477/9046 [03:38<42:35,  3.35it/s]    6%|▌         | 516/9046 [03:44<35:21,  4.02it/s]  6%|▌         | 522/9046 [03:45<35:05,  4.05it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  6%|▌         | 527/9046 [03:53<49:17,  2.88it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  6%|▌         | 539/9046 [03:57<49:54,  2.84it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  6%|▌         | 539/9046 [04:10<49:54,  2.84it/s]  6%|▌         | 563/9046 [04:13<1:04:36,  2.19it/s]  7%|▋         | 591/9046 [04:18<50:06,  2.81it/s]    7%|▋         | 637/9046 [04:23<33:29,  4.18it/s]  7%|▋         | 640/9046 [04:23<32:33,  4.30it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  7%|▋         | 649/9046 [04:32<49:40,  2.82it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  7%|▋         | 662/9046 [04:38<51:46,  2.70it/s]  7%|▋         | 674/9046 [04:43<54:44,  2.55it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  8%|▊         | 688/9046 [04:57<1:16:31,  1.82it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  8%|▊         | 711/9046 [05:11<1:19:31,  1.75it/s]  8%|▊         | 738/9046 [05:12<50:31,  2.74it/s]    8%|▊         | 761/9046 [05:23<54:22,  2.54it/s]  9%|▊         | 772/9046 [05:25<49:24,  2.79it/s]  9%|▉         | 800/9046 [05:29<37:18,  3.68it/s]  9%|▉         | 828/9046 [05:32<29:02,  4.72it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+  9%|▉         | 834/9046 [05:44<53:38,  2.55it/s] 10%|▉         | 860/9046 [06:16<1:38:16,  1.39it/s] 10%|█         | 925/9046 [06:17<42:33,  3.18it/s]  /home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+ 10%|█         | 925/9046 [06:30<42:33,  3.18it/s] 10%|█         | 945/9046 [06:31<52:23,  2.58it/s] 11%|█         | 988/9046 [06:33<34:04,  3.94it/s] 11%|█         | 999/9046 [06:38<38:41,  3.47it/s] 11%|█▏        | 1026/9046 [06:40<29:20,  4.56it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+ 11%|█▏        | 1040/9046 [06:50<41:59,  3.18it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+ 12%|█▏        | 1043/9046 [07:10<1:26:39,  1.54it/s]

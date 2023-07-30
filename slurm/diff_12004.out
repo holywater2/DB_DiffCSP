@@ -1,0 +1,18 @@
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/hydra/experimental/compose.py:16: UserWarning: hydra.experimental.compose() is no longer experimental. Use hydra.compose()
+  warnings.warn(
+Traceback (most recent call last):
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/compute_metrics.py", line 475, in <module>
+    main(args)
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/compute_metrics.py", line 405, in main
+    csv = pd.read_csv(args.gt_file)
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 912, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 577, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1407, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pandas/io/parsers/readers.py", line 1661, in _make_engine
+    self.handles = get_handle(
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pandas/io/common.py", line 859, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/home/rokabe/data2/generative/DiffCSP_v/data/carbon_24/test.csv'

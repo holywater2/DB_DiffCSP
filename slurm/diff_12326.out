@@ -1,0 +1,11 @@
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/hydra/experimental/compose.py:16: UserWarning: hydra.experimental.compose() is no longer experimental. Use hydra.compose()
+  warnings.warn(
+Evaluate the diffusion model.
+Traceback (most recent call last):
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/generation.py", line 171, in <module>
+    main(args)
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/generation.py", line 138, in main
+    test_set = SampleDataset(args.dataset, args.batch_size * args.num_batches_to_samples)
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/generation.py", line 108, in __init__
+    self.distribution = train_dist[dataset]
+KeyError: 'mpts_52'

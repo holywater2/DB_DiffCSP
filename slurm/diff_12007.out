@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/sample.py", line 18, in <module>
+    import chemparse
+ModuleNotFoundError: No module named 'chemparse'

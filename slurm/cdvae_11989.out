@@ -1,0 +1,19 @@
+Global seed set to 42
+[2023-05-19 02:17:47,829][hydra.utils][INFO] - Instantiating <diffcsp.pl_data.datamodule.CrystDataModule>
+/data2/rokabe/generative/DiffCSP_v1/diffcsp/common/data_utils.py:1151: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at ../torch/csrc/utils/tensor_new.cpp:245.)
+  targets = torch.tensor([d[key] for d in data_list])
+/data2/rokabe/generative/DiffCSP_v1/diffcsp/common/data_utils.py:1119: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  X = torch.tensor(X, dtype=torch.float)
+[2023-05-19 02:17:50,957][hydra.utils][INFO] - Instantiating <diffcsp.pl_modules.diffusion.CSPDiffusion>
+[2023-05-19 02:18:06,663][hydra.utils][INFO] - Passing scaler from datamodule to model <StandardScalerTorch(means: -154.2510223388672, stds: 0.13738815486431122)>
+[2023-05-19 02:18:06,665][hydra.utils][INFO] - Adding callback <LearningRateMonitor>
+[2023-05-19 02:18:06,665][hydra.utils][INFO] - Adding callback <EarlyStopping>
+[2023-05-19 02:18:06,666][hydra.utils][INFO] - Adding callback <ModelCheckpoint>
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pytorch_lightning/callbacks/model_checkpoint.py:360: UserWarning: Checkpoint directory /home/rokabe/data2/generative/hydra/singlerun/2023-05-19/diff_carbon_1 exists and is not empty.
+  rank_zero_warn(f"Checkpoint directory {dirpath} exists and is not empty.")
+[2023-05-19 02:18:06,669][hydra.utils][INFO] - Instantiating <WandbLogger>
+[2023-05-19 02:18:06,671][hydra.utils][INFO] - W&B is now watching <{cfg.logging.wandb_watch.log}>!
+wandb: Currently logged in as: ryotarookabe (use `wandb login --relogin` to force relogin)
+wandb: wandb version 0.15.3 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+slurmstepd-atom: error: *** JOB 11989 ON atom CANCELLED AT 2023-05-19T02:18:08 ***

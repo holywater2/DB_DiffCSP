@@ -1,0 +1,30 @@
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/hydra/experimental/compose.py:16: UserWarning: hydra.experimental.compose() is no longer experimental. Use hydra.compose()
+  warnings.warn(
+/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/torch_geometric/deprecation.py:12: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+Evaluate the diffusion model.
+Traceback (most recent call last):
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/torch_geometric/data/storage.py", line 61, in __getattr__
+    return self[key]
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/torch_geometric/data/storage.py", line 81, in __getitem__
+    return self._mapping[key]
+KeyError: 'atom_types'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/generation.py", line 171, in <module>
+    main(args)
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/generation.py", line 142, in main
+    (frac_coords, atom_types, lattices, lengths, angles, num_atoms) = diffusion(test_loader, model, args.step_lr)
+  File "/data2/rokabe/generative/DiffCSP_v1/scripts/generation.py", line 87, in diffusion
+    outputs, traj = model.sample(batch, step_lr = step_lr)
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/data2/rokabe/generative/DiffCSP_v1/diffcsp/pl_modules/diffusion.py", line 168, in sample
+    'atom_types' : batch.atom_types,
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/torch_geometric/data/data.py", line 375, in __getattr__
+    return getattr(self._store, key)
+  File "/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/torch_geometric/data/storage.py", line 63, in __getattr__
+    raise AttributeError(
+AttributeError: 'GlobalStorage' object has no attribute 'atom_types'
