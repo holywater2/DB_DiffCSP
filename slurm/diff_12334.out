@@ -380,4 +380,4 @@
   warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
  11%|█▏        | 1040/9046 [06:50<41:59,  3.18it/s]/home/rokabe/anaconda3/envs/diffcsp/lib/python3.9/site-packages/pymatgen/io/cif.py:1148: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
   warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
- 12%|█▏        | 1043/9046 [07:10<1:26:39,  1.54it/s]
+ 12%|█▏        | 1043/9046 [07:10<1:26:39,  1.54it/s] 12%|█▏        | 1057/9046 [07:17<1:20:50,  1.65it/s] 12%|█▏        | 1105/9046 [07:18<36:05,  3.67it/s]   13%|█▎        | 1143/9046 [07:28<36:15,  3.63it/s] 13%|█▎        | 1150/9046 [07:40<53:07,  2.48it/s]
